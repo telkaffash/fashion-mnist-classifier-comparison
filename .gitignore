@@ -22,3 +22,5 @@ features/
 *.npz
 
 *.log
+
+results/pca_plots/
